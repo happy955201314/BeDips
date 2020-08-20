@@ -45,7 +45,7 @@
     "@babel/polyfill": "^7.4.4",
     "@emotion/core": "^10.0.10",
     "babel-polyfill": "^6.26.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-scroll-lock": "^2.6.1",
     "bootstrap": "^4.3.1",
     "cookie-parser": "^1.4.4",
