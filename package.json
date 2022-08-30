@@ -58,7 +58,7 @@
     "lodash": "^4.17.14",
     "lodash-es": "^4.17.14",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "nodemon": "^1.19.1",
     "pg": "^7.8.1",
     "pm2": "^3.5.0",
